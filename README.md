@@ -1,8 +1,7 @@
-# Random Password Generator
+# homework-3 Random Password Generator
 
-Repo:
+Repo:	https://github.com/jsmauch80/HW3
 
-Live: 
+Live: 	https://jsmauch80.github.io/HW3/
 
-Screenshot: 	
-		
+Screenshot:	![image](https://github.com/jsmauch80/HW3/blob/main/assets/password.png)
